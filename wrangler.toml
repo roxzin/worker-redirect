@@ -1,0 +1,2 @@
+name = "nome-do-seu-worker"
+main = "index.js"
